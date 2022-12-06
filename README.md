@@ -1,2 +1,2 @@
 # backendBank
-Backend bank api with Java, SpringBoot, JPA, Postgresql.
+Backend bank api with Java, SpringBoot, JPA, Postgresql, POO.
